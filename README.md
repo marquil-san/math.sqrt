@@ -96,7 +96,3 @@ Enter number: 2
 * **Smaller `tolerance`** → more accurate, might take slightly more iterations.
 * **Larger numbers** → Newton-Raphson is super fast and handles them like a champ! 💪
 
-If this felt gay it's cuz `Zesty ChatGPT` wrote this readme.md
----
-
-🐣 Enjoy calculating square roots like a math wizard!
